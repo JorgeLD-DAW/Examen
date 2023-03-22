@@ -4,7 +4,7 @@ public class index {
 
 	public static void main(String[] args) {
 		System.out.print("Hola a tod@s");
-		System.out.print("Rama A cambio 2");
+		System.out.println("cambio 2");
 	}
 
 }
